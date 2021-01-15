@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="counter_corner_radius">10dp</dimen>
+    <declare-styleable name="CounterView">
+        <attr name="counterIconTint" format="color|reference"/>
+        <attr name="counterBackground" format="color|reference"/>
+        <attr name="counterTextColor" format="color|reference"/>
+    </declare-styleable>
+</resources>
